@@ -1,0 +1,26 @@
+{
+  "name": "tutorial1",
+  "version": "1.0.0",
+  "description": "tutorial for webgl",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdabrowski1989/WebGlTut_1.git"
+  },
+  "keywords": [
+    "WebGl",
+    "Threejs"
+  ],
+  "author": "Pawel Dabrowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pdabrowski1989/WebGlTut_1/issues"
+  },
+  "homepage": "https://github.com/pdabrowski1989/WebGlTut_1#readme",
+  "devDependencies": {
+    "three": "^0.86.0"
+  }
+}
